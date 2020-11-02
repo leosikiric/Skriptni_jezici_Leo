@@ -5,18 +5,21 @@
     <h1>Obrazac o učeniku</h1>
     <hr align="left" width="70%">
     <form>
-      <label>Ime:</label>
-      <input type="text" maxlenth="30"><br>
-      <label>Prezime:</label>
-      <input type="text" maxlenth="30"><br>
-      <label>Lozinka:</label>
-      <input type="password"><br><br>
+      <label for="ime">Ime:</label>
+      <input type="text" id="ime" name="ime" maxlenth="30"><br>
+      <label for="prezime">Prezime:</label>
+      <input type="text" id="prezime" name="prezime" maxlenth="30"><br>
+      <label for="lozinka">Lozinka:</label>
+      <input type="password" id="lozinka" name="lozinka"><br><br>
       
       <label>Spol:</label>
       <input type="radio" id="muško" name="spol" value="muško" checked>
       <label for="muško">Muško</label>
       <input type="radio" id="žensko" name="spol">
       <label for="žensko">Žensko</label><br>
+      <input type="text" id="mjesto" name="mjesto" value="Zagreb">
+      <hr align="left" width="50%">
+      
     </form>
   </body>
 </html
