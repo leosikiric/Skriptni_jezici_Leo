@@ -1,0 +1,38 @@
+
+h1{
+	font-family: times new roman;
+	font-size: 26px;
+	font-weight: bolder;
+	margin-top: 50px;
+	border: 2px green double;
+}
+h2{
+	font-family: Verdana;
+	color: red;
+	font-weight: normal;
+	border: 5px green groove;
+}
+h3{
+	font-family: Verdana;
+	color: green;
+	font-weight: normal;
+	border-bottom: 10px yellow double
+}
+h4{
+	font-family: Verdana;
+	color: blue;
+	font-weight: normal;
+	padding: 10px 0px;
+	border-top: 4px fuchsia solid;
+	border-right: 4px black double;
+	border-bottom: 4px purple groove;
+	border-left: 4px green dotted;
+}
+p{
+	font-family: verdana;
+	padding: 10px 0px;
+	border-top: 4px yellow groove;
+	border-right: 4px black dashed;
+	border-bottom: 4px black groove;
+	border-left: 4px purple dashed;
+}
