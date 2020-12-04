@@ -1,0 +1,6 @@
+ul{
+	list-style-image: url(pinguin.png);
+}
+ol{
+	list-style-type: lower-roman;
+}
