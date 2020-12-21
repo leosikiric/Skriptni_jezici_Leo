@@ -1,0 +1,31 @@
+h1{
+	text-align: center;
+	font-family: verdana; 
+	font-size: 50px;
+	color: white;
+	padding-top: 20px;
+}
+h2{
+	text-align: center;
+	font-family: arial;
+	font-size: 40;
+	color: yellow;
+	padding-top: 25px;
+}
+table, th, td{
+	background-color: #DB8C44;
+	width: 60%;
+	border: 5px groove #FFE135;
+	font-family: times new roman;
+	font-size: 30;
+}
+img{
+	width: 500px;
+}
+ul{
+	list-style-type: circle;
+}
+hr{
+	width: 75%;
+	border:1px solid #654321;
+}
